@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42d0f529-9e2e-4fe1-a964-e79542ab0025" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Asos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syntestapi/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber-sandwich.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class1/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class1/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class1/src/test/java/step_definitions/Addition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class1/src/test/java/step_definitions/BrowserCommands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class1/src/test/java/step_definitions/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class1/src/test/java/step_definitions/RunCukesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class1/src/test/resources/features/BrowserCommands.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class1/src/test/resources/features/addition.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class10/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class10/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class10/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class10/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class10/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class10/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class10/src/test/java/step_definitions/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class10/src/test/java/step_definitions/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class10/src/test/java/step_definitions/JsonExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class10/src/test/java/step_definitions/RunCukesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class10/src/test/resources/features/JSONExamples.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class10/src/test/resources/practiceform.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class10/src/test/resources/sample.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class11/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class11/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class11/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class11/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class11/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class11/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class11/src/test/java/stepDefinitions/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class11/src/test/java/stepDefinitions/Fan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class11/src/test/java/stepDefinitions/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class11/src/test/java/stepDefinitions/JsonExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class11/src/test/java/stepDefinitions/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class11/src/test/java/stepDefinitions/RunCukesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class11/src/test/java/stepDefinitions/SimpleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class11/src/test/resources/features/Database_Examples.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class11/src/test/resources/features/JSONExamples.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class11/src/test/resources/practiceform.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class11/src/test/resources/practiceselenium.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class11/src/test/resources/sample.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class12/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class12/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class12/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class12/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class12/src/test/java/stepDefinitions/BrowserPreferences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class12/src/test/java/stepDefinitions/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class12/src/test/java/stepDefinitions/RunCukesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class12/src/test/resources/features/BrowserPreferences.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class12/src/test/resources/useragents.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class2/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class2/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class2/src/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class2/src/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class2/src/test/java/step_definitions/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class2/src/test/java/step_definitions/HtmlLocators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class2/src/test/java/step_definitions/RunCukesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class2/src/test/java/step_definitions/WebElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class2/src/test/resources/features/HtmlLocators.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class2/src/test/resources/features/WebElements.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class3/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class3/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class3/src/test/java/step_definitions/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class3/src/test/java/step_definitions/RunCukesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class3/src/test/java/step_definitions/SubmitForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class3/src/test/resources/features/SubmitForm.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class4/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class4/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class4/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class4/src/test/java/step_definitions/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class4/src/test/java/step_definitions/RunCukesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class4/src/test/java/step_definitions/Waits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class4/src/test/resources/features/Waits.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class5/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class5/src/test/java/step_definitions/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class5/src/test/java/step_definitions/RunCukesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class5/src/test/java/step_definitions/SwitchCommands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class5/src/test/resources/features/SwitchCommands.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class6/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class6/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class6/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class6/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class6/src/test/java/step_definitions/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class6/src/test/java/step_definitions/HtmlLocators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class6/src/test/java/step_definitions/RunCukesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class6/src/test/java/step_definitions/WebElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class6/src/test/resources/features/HtmlLocators.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class6/src/test/resources/features/WebElements.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class7/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class7/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class7/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class7/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class7/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class7/src/test/java/step_definitions/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class7/src/test/java/step_definitions/HtmlLocators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class7/src/test/java/step_definitions/RunCukesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class7/src/test/java/step_definitions/WebElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class7/src/test/resources/features/HtmlLocators.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class7/src/test/resources/features/WebElements.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class8/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class8/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class8/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class8/Random.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class8/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class8/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class8/src/test/java/step_definitions/ApachePOIExcel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class8/src/test/java/step_definitions/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class8/src/test/java/step_definitions/RunCukesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class8/src/test/resources/Sample.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class8/src/test/resources/features/ApachePOIExcel.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class9/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class9/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class9/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class9/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class9/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class9/src/test/java/step_definitions/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class9/src/test/java/step_definitions/RunCukesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class9/src/test/java/step_definitions/SubmitForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-class9/src/test/resources/features/SubmitForm.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-data-driven-framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-data-driven-framework/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-data-driven-framework/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-data-driven-framework/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-data-driven-framework/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-data-driven-framework/src/test/java/helpers/DataHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-data-driven-framework/src/test/java/helpers/Log.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-data-driven-framework/src/test/java/step_definitions/DataDrivenFramework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-data-driven-framework/src/test/java/step_definitions/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-data-driven-framework/src/test/java/step_definitions/RunCukesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-data-driven-framework/src/test/resources/features/DataDrivenFramework.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-data-driven-framework/src/test/resources/testData/default.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-keyword-framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-keyword-framework/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-keyword-framework/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-keyword-framework/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-keyword-framework/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-keyword-framework/src/test/java/helpers/Log.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-keyword-framework/src/test/java/helpers/ObjectRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-keyword-framework/src/test/java/modules/ContactusModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-keyword-framework/src/test/java/modules/SignInModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-keyword-framework/src/test/java/step_definitions/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-keyword-framework/src/test/java/step_definitions/KeywordDrivenFramework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-keyword-framework/src/test/java/step_definitions/RunCukesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-keyword-framework/src/test/resources/OR.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-keyword-framework/src/test/resources/features/KeywordDrivenFramework.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/helpers/DataHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/helpers/Log.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/modules/ContactUsAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/modules/OrderConfirmationAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/modules/OrderSummaryAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/modules/PaymentAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/modules/SelectAndCheckout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/modules/SignInAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/modules/SignoutAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/modules/VerifyAddressProceed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/modules/VerifyShippingAddressProceed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/modules/VerifyShoppingCartSummaryAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/pageobjects/AddressPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/pageobjects/AutomationHomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/pageobjects/BaseClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/pageobjects/CheckoutPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/pageobjects/ContactusPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/pageobjects/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/pageobjects/OrderConfirmationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/pageobjects/OrderSummaryPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/pageobjects/PaymentMethodPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/pageobjects/ShippingAddressPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/pageobjects/ShoppingCartSummaryPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/pageobjects/SummerDressesCatalogPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/step_definitions/AddressSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/step_definitions/Hooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/step_definitions/OrderConfirmationSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/step_definitions/OrderSummarySteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/step_definitions/PaymentSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/step_definitions/RunCukesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/step_definitions/SelectCheckoutSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/step_definitions/ShippingSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/step_definitions/ShoppingCartSummarySteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/java/step_definitions/SigninSignoutContactUsSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/resources/features/OrderConfirmation.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/resources/features/OrderSummary.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/resources/features/Payment.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/resources/features/SelectCheckout.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/resources/features/Shipping.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/resources/features/ShoppingCartSummary.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/resources/features/SigninSignoutContactUs.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/resources/features/VerifyAddress.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumberjvm-selenium-page-object/src/test/resources/testData/TestData-seleniumframework.xlsx" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/request.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ApiSteps/requestSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="31" column="88" selection-start-line="31" selection-start-column="88" selection-end-line="31" selection-end-column="88" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/apiPage/requestPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-105">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cucumberRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/request.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/cucumberRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ApiSteps/requestPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/apiPage/requestsPage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/driverFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/driverFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ApiSteps/requestSteps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/apiPage/requestPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cucumberRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/request.feature" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="154" />
+    <option name="y" value="33" />
+    <option name="width" value="1890" />
+    <option name="height" value="957" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ApiSamplw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiSample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApiSamplw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiSample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApiSamplw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiSample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApiSamplw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiSample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApiSamplw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiSample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ApiSamplw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiSample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Asos" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ApiSteps" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sraav\workspace\CucumberJVMExamples\apiSample\src\test\resources" />
+      <recent name="C:\Users\sraav\workspace\CucumberJVMExamples\apiSample\src\test\java" />
+      <recent name="C:\Users\sraav\workspace\CucumberJVMExamples\apiSample\src\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.cucumberRunner">
+    <configuration name="Scenario: implementing Get request" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/request.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="apiSample" />
+      <option name="NAME_FILTER" value="^implementing Get request$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^implementing Get request$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: implementing Get request" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cucumberRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="apiSample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="cucumberRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.cucumberRunner" />
+        <item itemvalue="Cucumber java.Scenario: implementing Get request" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42d0f529-9e2e-4fe1-a964-e79542ab0025" name="Default Changelist" comment="" />
+      <created>1569409831075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569409831075</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="cucumberRunner - 2019.09.25 at 14h 21m 27s.xml">
+      <configuration name="cucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="cucumberRunner - 2019.09.25 at 14h 22m 56s.xml">
+      <configuration name="cucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="cucumberRunner - 2019.09.25 at 14h 24m 12s.xml">
+      <configuration name="cucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="cucumberRunner - 2019.09.25 at 14h 32m 43s.xml">
+      <configuration name="cucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="cucumberRunner - 2019.09.25 at 14h 34m 50s.xml">
+      <configuration name="cucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="cucumberRunner - 2019.09.25 at 14h 35m 15s.xml">
+      <configuration name="cucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="cucumberRunner - 2019.09.25 at 14h 36m 11s.xml">
+      <configuration name="cucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="cucumberRunner - 2019.09.25 at 14h 37m 48s.xml">
+      <configuration name="cucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="cucumberRunner - 2019.09.25 at 14h 47m 06s.xml">
+      <configuration name="cucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="cucumberRunner - 2019.09.25 at 15h 02m 14s.xml">
+      <configuration name="cucumberRunner" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="103" y="22" width="1260" height="638" extended-state="1" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2579299" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936507" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4861111" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936507" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936507" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579299" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936507" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4861111" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936507" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936507" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/api.features" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/apiPage/requestsPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/driverFactory.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ApiSteps/requestSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="31" column="88" selection-start-line="31" selection-start-column="88" selection-end-line="31" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/request.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/apiPage/requestPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cucumberRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>apiSample</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
